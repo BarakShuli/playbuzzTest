@@ -1,0 +1,24 @@
+{
+  "name": "angular-cli",
+  "version": "0.0.0",
+  "description": "Modular starter project for Angular 2 (and beyond) with statically typed build and AoT compilation",
+  "repository": {
+    "url": ""
+  },
+  
+  "author": "Minko Gechev <mgechev>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.0.33"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+	  "body-parser": "~1.12.4",
+    "cookie-parser": "~1.3.5",
+    "debug": "~2.2.0",
+    "jade": "~1.9.2",
+    "serve-favicon": "~2.2.1",
+    "xlsx-writestream":"0.4.0",
+    "request": "^2.81.0"
+  }
+}
